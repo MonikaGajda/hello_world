@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+main()
 {
 	std::cout<<"Monika Zelechowska"<<std::endl;
 	std::cout<<"hello world!"<<std::endl;
